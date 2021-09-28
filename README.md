@@ -1,2 +1,2 @@
-# Flappy-Bird
-Flappy Bird remake.
+# Game-Releases
+All game releases.
